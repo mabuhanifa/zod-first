@@ -1,0 +1,11 @@
+{
+  "name": "zod",
+  "version": "1.0.0",
+  "description": "zod tutorial",
+  "main": "index.js",
+  "author": "Mohammed Abu Hanifa",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.21.4"
+  }
+}
